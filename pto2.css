@@ -45,6 +45,7 @@
 }
 .pto2-pto3 {
   margin-left: var(--dl-space-space-unit);
+  text-decoration: none;
 }
 .pto2-burger-menu {
   display: none;
